@@ -1,0 +1,49 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+parts/
+eggs/
+lib/
+lib64/
+__pycache__/
+*.egg-info
+.installed.cfg
+*.egg
+MANIFEST
+
+# Python specific #
+###################
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Data and outputs #
+####################
+data/
+output/
+*.csv
+*.xlsx
+*.pkl
+
+# Miscellaneous #
+#################
+.DS_Store
+.env
+.env.local
+.env.*.local
+.env.test
+.env.test.local
